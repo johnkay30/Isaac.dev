@@ -1,0 +1,8 @@
+{
+  "name": "Isaac Idolor - My Portfolio",
+  "description": "A world-class developer portfolio for Isaac Idolor featuring modern design, interactive project showcases, and a Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
